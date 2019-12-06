@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-FBlogin/Pods-FBlogin-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AWSCore/AWSCore.framework
+${BUILT_PRODUCTS_DIR}/AWSS3/AWSS3.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework
+${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework
+${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework
+${PODS_ROOT}/PhotoEditorSDK/PhotoEditorSDK/ImglyKit.framework
+${PODS_ROOT}/PhotoEditorSDK/PhotoEditorSDK/ImglyKit.framework.dSYM
+${PODS_ROOT}/PhotoEditorSDK/PhotoEditorSDK/PhotoEditorSDK.framework
+${PODS_ROOT}/PhotoEditorSDK/PhotoEditorSDK/PhotoEditorSDK.framework.dSYM
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

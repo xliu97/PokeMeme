@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AWSCore (2.12.2)
+  - AWSS3 (2.12.2):
+    - AWSCore (= 2.12.2)
+  - FBSDKCoreKit (5.12.0):
+    - FBSDKCoreKit/Basics (= 5.12.0)
+    - FBSDKCoreKit/Core (= 5.12.0)
+  - FBSDKCoreKit/Basics (5.12.0)
+  - FBSDKCoreKit/Core (5.12.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.11.1):
+    - FBSDKLoginKit/Login (= 5.11.1)
+  - FBSDKLoginKit/Login (5.11.1):
+    - FBSDKCoreKit (~> 5.0)
+  - FBSDKShareKit (5.11.1):
+    - FBSDKShareKit/Share (= 5.11.1)
+  - FBSDKShareKit/Share (5.11.1):
+    - FBSDKCoreKit (~> 5.0)
+  - PhotoEditorSDK (10.6.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AWSS3
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - PhotoEditorSDK
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCore
+    - AWSS3
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - PhotoEditorSDK
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AWSCore: bdc0933bcb1aca4a9af3352a9e6ec75b339faf71
+  AWSS3: 3ab1e1b25d3522d7745efd2a57a98a86d7524bd5
+  FBSDKCoreKit: fa3ac4dc9b1afc9ae70b3de4dd704d1b6aeeed0d
+  FBSDKLoginKit: 0e4572e0279e477103b57978e3ea05fac1dd673d
+  FBSDKShareKit: 2b4435ecb134e2af8a636524e43b7813e3d60a0b
+  PhotoEditorSDK: 3071f416c47205e62ef9962b5d93dcffdd481193
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 1d674dc417b24f17c3d1db722be4a1b5b3d12718
+
+COCOAPODS: 1.8.4
